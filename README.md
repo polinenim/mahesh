@@ -1,7 +1,7 @@
-<img src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630"  lengthth="50"/>
+<img src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630">
 
 <h1 align="center"> Hi, I'm Polineni Mahesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">I'm a Software Developer from India ❤</h3>
+<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
  <br/>
@@ -44,10 +44,10 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
        
-<a href="https://github.com/Chayan-11">
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=polinenim&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=polinenim&theme=chartreuse-dark">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polinenim&show_icons=true&locale=en" alt="polinenim" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polinenim&" alt="polinenim" /></p>
+
   
 </a>
 
