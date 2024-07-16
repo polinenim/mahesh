@@ -23,13 +23,13 @@
 
 - 👀 I’m interested in coding and learning new things related to technologies 
 - 🌱 I’m currently pursuing a Computer Science and Engineering at Madanapalle Institute of Technology and Science, India.
-- 📫 How to reach me pmahesh.polineni@gmail.com
+- 📫 How to reach me maheshpolineni1008@gmail.com
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 
-I'm Polineni Mahesh, and I'm from Rajampet. I'm currently pursuing a Bachelor of Technology in the Computer Science and Engineering stream at Madanapalle Institute of Technology and Science. I studied intermidiate at sri chaitanya juniour college in Tirupati.
+I'm Polineni Mahesh, and I'm from Rajampet. I'm recently graduate with Bachelor of Technology in the Computer Science and Engineering stream at Madanapalle Institute of Technology and Science. I studied intermidiate at sri chaitanya juniour college in Tirupati.
  
 Achievements and defeats are inextricably related to successes and setbacks. Anyone who accomplishes something today has missed something the day before.
 My family has always been a source of inspiration and motivation for me, especially my mother. That is why I am today a self-motivated, empowered, and committed person.
