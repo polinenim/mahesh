@@ -10,7 +10,7 @@
 <h3> 🤝🏻 Connect With Me @ </h3>
 
 [![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/polinenim)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:pmahesh.polineni@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:maheshpolineni1008@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/Mahesh62338191)
 
 </div>
